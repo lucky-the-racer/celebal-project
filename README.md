@@ -154,7 +154,6 @@ steps:
 
 ###  SO NOW OUR PROJECT IS SUCCESFULLY DEPLOY AND RUN 
 
-![14](https://github.com/user-attachments/assets/66cd42d1-92f4-4c89-a300-4c392d1c1eca)
 
 ##  5. Register the VM with Azure DevOps
 
