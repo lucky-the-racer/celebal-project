@@ -193,7 +193,6 @@ steps:
 
 # Output
 After deploying the CI/CD pipeline and integrating my HTML repository, my project is live on the IIS server with the help of the deployment.
-![14](https://github.com/user-attachments/assets/a81ca78b-e344-4953-b3b2-6b55569bcc3e)
 
 ## Helpful Documents
 - [Deploying to IIS using Azure DevOps YAML Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/deploy-webdeploy-iis-deploygroups?view=azure-devops&tabs=net)
